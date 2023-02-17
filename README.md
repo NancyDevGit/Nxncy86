@@ -7,3 +7,5 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love learning languages. Sometimes they're easy to learn than programming languages and sometimes they're more difficult.
 
+Another thing I want to add is that I'll be updating daily this file, since I'm new to Markdown markup language.
+
